@@ -1,4 +1,4 @@
-Live depolyment link: https://intelligent-medical-report-analyzer.vercel.app/
+🚀 Live Demo: https://intelligent-medical-report-analyzer.vercel.app/
 
 MediLens — full prototype package
 =================================
