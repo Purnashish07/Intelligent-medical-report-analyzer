@@ -1,0 +1,13 @@
+{
+  "name": "medilens-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MediLens educational medical-report analyzer prototype",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
